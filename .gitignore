@@ -1,0 +1,6 @@
+/servicio-productos/target
+/servicio-inventario/target
+*.log
+*.iml
+.idea/
+*.DS_Store
